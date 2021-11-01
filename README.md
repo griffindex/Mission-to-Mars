@@ -14,7 +14,7 @@ The purpose of this repository is to generate a landing page from scraped data a
 
 ### Tools
     - Visual Studio Code
-    - Python 3.7.10 | Libraries Used: flask, splinter, Beautiful Soup, webdriver_manager.crome, pandas
+    - Python 3.7.10 | Libraries Used: Flask, Splinter, Beautiful Soup, Pandas, webdriver_manager.chrome
     - Jupyter Notebook
     - MongoDB
 
